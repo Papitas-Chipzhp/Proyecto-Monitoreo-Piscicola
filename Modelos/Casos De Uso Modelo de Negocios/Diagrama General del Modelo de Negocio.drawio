@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="7D5bOR-4u0BSziyJyHx6">
+    <mxGraphModel dx="1432" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="box_negocio" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F9FA;strokeColor=#495057;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=15;fontColor=#212529;spacingTop=12;" value="Criadero Acuícola Lótico (Frontera del Negocio)" vertex="1">
+          <mxGeometry height="760" width="520" x="270" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cun_01" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#343A40;strokeWidth=1.5;fontSize=12;fontColor=#212529;" value="&lt;b&gt;CUN-01&lt;/b&gt;&lt;br&gt;Adquirir alevinos e insumos" vertex="1">
+          <mxGeometry height="60" width="290" x="385" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cun_02" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#343A40;strokeWidth=1.5;fontSize=12;fontColor=#212529;" value="&lt;b&gt;CUN-02&lt;/b&gt;&lt;br&gt;Sembrar peces en las jaulas" vertex="1">
+          <mxGeometry height="60" width="290" x="385" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cun_03" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#343A40;strokeWidth=1.5;fontSize=12;fontColor=#212529;" value="&lt;b&gt;CUN-03&lt;/b&gt;&lt;br&gt;Alimentar los peces" vertex="1">
+          <mxGeometry height="60" width="290" x="385" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cun_07" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#343A40;strokeWidth=1.5;fontSize=12;fontColor=#212529;" value="&lt;b&gt;CUN-07&lt;/b&gt;&lt;br&gt;Cosechar ejemplares para investigación" vertex="1">
+          <mxGeometry height="60" width="290" x="385" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="cun_05" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#343A40;strokeWidth=1.5;fontSize=12;fontColor=#212529;" value="&lt;b&gt;CUN-05&lt;/b&gt;&lt;br&gt;Controlar sanidad y mortalidad" vertex="1">
+          <mxGeometry height="60" width="290" x="385" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="cun_06" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#343A40;strokeWidth=1.5;fontSize=12;fontColor=#212529;" value="&lt;b&gt;CUN-06&lt;/b&gt;&lt;br&gt;Limpiar y mantener el fondo y jaulas" vertex="1">
+          <mxGeometry height="60" width="290" x="385" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="cun_04" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#343A40;strokeWidth=1.5;fontSize=12;fontColor=#212529;" value="&lt;b&gt;CUN-04&lt;/b&gt;&lt;br&gt;Controlar calidad del agua" vertex="1">
+          <mxGeometry height="60" width="290" x="385" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="cun_08" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#343A40;strokeWidth=1.5;fontSize=12;fontColor=#212529;" value="&lt;b&gt;CUN-08&lt;/b&gt;&lt;br&gt;Atender autoridades y vecinos" vertex="1">
+          <mxGeometry height="60" width="290" x="385" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="worker_productor" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;fontColor=#212529;" value="&amp;laquo;Business Worker&amp;raquo;&lt;br&gt;&lt;b&gt;Productor Piscícola&lt;/b&gt;" vertex="1">
+          <mxGeometry height="75" width="40" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="worker_operario" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;fontColor=#212529;" value="&amp;laquo;Business Worker&amp;raquo;&lt;br&gt;&lt;b&gt;Operario Piscícola&lt;/b&gt;" vertex="1">
+          <mxGeometry height="75" width="40" x="80" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="worker_tecnico" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;fontColor=#212529;" value="&amp;laquo;Business Worker&amp;raquo;&lt;br&gt;&lt;b&gt;Técnico de Campo&lt;/b&gt;" vertex="1">
+          <mxGeometry height="75" width="40" x="80" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="actor_proveedores" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=1.5;fontSize=11;fontColor=#212529;" value="&amp;laquo;Business Actor&amp;raquo;&lt;br&gt;&lt;b&gt;Proveedores&lt;/b&gt;" vertex="1">
+          <mxGeometry height="75" width="40" x="930" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="actor_apoyo" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=1.5;fontSize=11;fontColor=#212529;" value="&amp;laquo;Business Actor&amp;raquo;&lt;br&gt;&lt;b&gt;Entidades de Apoyo&lt;br&gt;Técnico&lt;/b&gt;" vertex="1">
+          <mxGeometry height="75" width="40" x="930" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="actor_autoridad" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=1.5;fontSize=11;fontColor=#212529;" value="&amp;laquo;Business Actor&amp;raquo;&lt;br&gt;&lt;b&gt;Autoridad Ambiental&lt;/b&gt;&lt;br&gt;(Cormacarena / MinSalud)" vertex="1">
+          <mxGeometry height="75" width="40" x="930" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="actor_vecinos" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=1.5;fontSize=11;fontColor=#212529;" value="&amp;laquo;Business Actor&amp;raquo;&lt;br&gt;&lt;b&gt;Vecinos y Comunidad&lt;br&gt;Local&lt;/b&gt;" vertex="1">
+          <mxGeometry height="75" width="40" x="930" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="e_prod_cun1" edge="1" parent="1" source="worker_productor" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;entryX=0;entryY=0.5;exitX=1;exitY=0.33;" target="cun_01">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_op_cun2" edge="1" parent="1" source="worker_operario" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;entryX=0;entryY=0.5;exitX=1;exitY=0.33;" target="cun_02">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_op_cun3" edge="1" parent="1" source="worker_operario" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;entryX=0;entryY=0.5;exitX=1;exitY=0.33;" target="cun_03">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_op_cun7" edge="1" parent="1" source="worker_operario" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;entryX=0;entryY=0.5;exitX=1;exitY=0.33;" target="cun_07">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_op_cun5" edge="1" parent="1" source="worker_operario" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;entryX=0;entryY=0.5;exitX=1;exitY=0.33;" target="cun_05">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_op_cun6" edge="1" parent="1" source="worker_operario" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;entryX=0;entryY=0.5;exitX=1;exitY=0.33;" target="cun_06">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_tec_cun4" edge="1" parent="1" source="worker_tecnico" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;entryX=0;entryY=0.5;exitX=1;exitY=0.33;" target="cun_04">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_prov_cun1" edge="1" parent="1" source="cun_01" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;exitX=1;exitY=0.5;entryX=0;entryY=0.33;" target="actor_proveedores">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_apoyo_cun5" edge="1" parent="1" source="cun_05" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;exitX=1;exitY=0.5;entryX=0;entryY=0.33;" target="actor_apoyo">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_aut_cun4" edge="1" parent="1" source="cun_04" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;exitX=1;exitY=0.5;entryX=0;entryY=0.33;" target="actor_autoridad">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_aut_cun8" edge="1" parent="1" source="cun_08" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;exitX=1;exitY=0.5;entryX=0;entryY=0.33;" target="actor_autoridad">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_vec_cun8" edge="1" parent="1" source="cun_08" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;exitX=1;exitY=0.5;entryX=0;entryY=0.33;" target="actor_vecinos">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mNLXes1-xtlTLa_i_vsy-1" edge="1" parent="1" source="worker_productor" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="155" as="sourcePoint" />
+            <mxPoint x="380" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNLXes1-xtlTLa_i_vsy-2" edge="1" parent="1" source="worker_productor" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cun_08">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="237.5" as="sourcePoint" />
+            <mxPoint x="370" y="582.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

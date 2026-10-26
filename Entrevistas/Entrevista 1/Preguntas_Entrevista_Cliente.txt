@@ -1,0 +1,34 @@
+
+1. PREGUNTAS DE NEGOCIO (DOMINIO Y OPERACIÓN DEL CRIADERO)
+
+1.1. ¿Cómo gestionan actualmente los episodios de baja de oxígeno disuelto (OD) o picos de amoniaco (TAN) durante las horas nocturnas o de madrugada en las 20 jaulas?
+1.2. ¿Cuál es el comportamiento típico del flujo de agua y la temperatura en las tres zonas del río (Entrada, Centro y Salida) a lo largo del año o en épocas de lluvia/sequía?
+1.3. ¿Cuál es la rutina exacta de alimentación de la tilapia, cachama y mojarra (horarios, cantidad por jaula) y cómo influye el estado aparente del agua antes de impartir el alimento?
+1.4. ¿Con qué frecuencia exacta reciben inspecciones de la autoridad ambiental (Cormacarena / MinSalud) y qué tipo de registros o evidencias físicas les solicitan habitualmente?
+1.5. En cuanto al manejo de mortandades o enfermedades en las jaulas, ¿cuál es el procedimiento habitual de registro y qué datos se consideran críticos para la bioseguridad del criadero?
+
+
+2. PREGUNTAS DE ALCANCE (NEGOCIACIÓN DEL ENTREGABLE DEL SEMESTRE)
+
+2.1. Teniendo en cuenta la duración de este semestre, ¿qué componentes consideran prioritarios para ser funcionales y desplegados primero: la telemetría remota con alertas SMS instantáneas o la visualización de gráficos en el tablero web?
+2.2. ¿Estaría de acuerdo en acotar la primera versión del sistema al monitoreo, análisis predictivo y emisión de alertas para decisión humana, dejando la activación automática de actuadores (aireadores/alimentadores) para una fase posterior?
+2.3. Para el Portal Público Ambiental destinado a Cormacarena y la comunidad, ¿qué nivel de agregación o formato de datos consideran ideal para brindar transparencia sin revelar volúmenes de producción ni datos comerciales privados?
+2.4. ¿Qué canal de notificación prefieren recibir en el teléfono móvil ante una emergencia en campo (mensajes de texto SMS tradicionales, alertas por WhatsApp o notificaciones push)?
+
+
+3. PREGUNTAS DE RESTRICCIONES (TÉCNICAS, OPERATIVAS Y PRESUPUESTALES)
+
+3.1. ¿Cuál es el estado de la cobertura de señal celular (GSM/4G) en el punto exacto donde se encuentran ubicadas las jaulas sobre el río? ¿Existen zonas de sombra o pérdida de señal?
+3.2. ¿Se cuenta con acceso a red eléctrica convencional cerca de la orilla del río o es estrictamente necesario que todos los nodos sensores funcionen con paneles solares y baterías recargables?
+3.3. ¿Existe algún límite o restricción presupuestal estimado por nodo sensor o por jaula para la adquisición de los módulos de hardware y sondas de medición?
+3.4. ¿Qué nivel de conocimientos técnicos o alfabetización digital tiene el personal operario de campo que estará en contacto diario con el equipamiento o la interfaz?
+
+
+4. PREGUNTAS DE RIESGOS (VALIDACIÓN Y COTEJO DE RIESGOS EN CAMPO)
+
+4.1. [Riesgo de Biofouling]: Debido a la presencia de algas y materia orgánica en el río, los sensores sumergidos sufren incrustación biológica. ¿Con qué frecuencia realizan mantenimiento a las mallas de las jaulas y quién podría asumir la limpieza periódica de las sondas?
+4.2. [Riesgo de Crecientes y Palizadas]: Durante épocas de fuertes lluvias, ¿qué tanto aumenta el caudal del río y cuál es el riesgo de que palizadas o escombros flotantes impacten los nodos sensores flotantes?
+4.3. [Riesgo de Seguridad / Vandalismo]: ¿Se han presentado eventos de hurto, vandalismo o manipulación no autorizada de equipos en la zona de las jaulas que requieran encapsulamientos de seguridad especial para los paneles solares y nodos?
+4.4. [Riesgo de Desatención de Alertas]: ¿Existe el riesgo de que las alertas enviadas por SMS no sean leídas a tiempo durante la noche? ¿Tienen personal de turno nocturno en la finca?
+4.5. [Nuevos Riesgos sugeridos por el cliente]: Desde su experiencia práctica diaria manejando el criadero en este cuerpo lótico, ¿qué otros riesgos o imprevistos técnicos/ambientales consideran que deberíamos tener en cuenta y no hemos mencionado?
+

@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="7D5bOR-4u0BSziyJyHx6">
+    <mxGraphModel dx="1594" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="box" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8F9FA;strokeColor=#495057;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=13;fontColor=#212529;spacingTop=10;" value="Criadero Acuícola Lótico (Frontera del Negocio)" vertex="1">
+          <mxGeometry height="230" width="360" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cun" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#343A40;strokeWidth=1.5;fontSize=12;fontColor=#212529;" value="&lt;b&gt;CUN-08&lt;/b&gt;&lt;br&gt;Atender autoridades y vecinos" vertex="1">
+          <mxGeometry height="65" width="280" x="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="worker" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFF2CC;strokeColor=#D6B656;strokeWidth=1.5;fontSize=11;fontColor=#212529;" value="&amp;laquo;Business Worker&amp;raquo;&lt;br&gt;&lt;b&gt;Productor Piscícola&lt;/b&gt;" vertex="1">
+          <mxGeometry height="75" width="40" x="70" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="actor1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=1.5;fontSize=11;fontColor=#212529;" value="&amp;laquo;Business Actor&amp;raquo;&lt;br&gt;&lt;b&gt;Autoridad Ambiental&lt;/b&gt;&lt;br&gt;(Cormacarena / MinSalud)" vertex="1">
+          <mxGeometry height="75" width="40" x="690" y="55" as="geometry" />
+        </mxCell>
+        <mxCell id="actor2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#D5E8D4;strokeColor=#82B366;strokeWidth=1.5;fontSize=11;fontColor=#212529;" value="&amp;laquo;Business Actor&amp;raquo;&lt;br&gt;&lt;b&gt;Vecinos y Comunidad&lt;br&gt;Local&lt;/b&gt;" vertex="1">
+          <mxGeometry height="75" width="40" x="690" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="worker" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;entryX=0;entryY=0.5;exitX=1;exitY=0.33;" target="cun">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="cun" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;exitX=1;exitY=0.5;entryX=0;entryY=0.33;" target="actor1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="cun" style="endArrow=none;html=1;strokeWidth=1.5;strokeColor=#495057;exitX=1;exitY=0.5;entryX=0;entryY=0.33;" target="actor2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
